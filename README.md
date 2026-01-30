@@ -1,29 +1,44 @@
-# java-desktop-app
-Java Desktop-App mit allen CRUD-Funktionalität
+# Java Desktop Application – CRUD
 
-## Screenshots
+##  Projektbeschreibung
+Diese Java-Desktop-Anwendung wurde im Rahmen akademischer Projekte entwickelt
+und implementiert alle grundlegenden CRUD-Funktionalitäten
+(Create, Read, Update, Delete).
+
+Die Anwendung verfügt über eine grafische Benutzeroberfläche (GUI)
+und ermöglicht Benutzerverwaltung sowie Datenbearbeitung.
+
+---
+
+##  Screenshots
 
 ### Login-GUI
+Diese Abbildung zeigt die Login-Oberfläche der Anwendung.
 
-Diese Abbildung zeigt das Login-GUI.
+![Login GUI](screenshots/login.png)
 
-![Login_GUI](screenshots/login.png)
+---
 
+### Konto ändern
+Diese Abbildung zeigt die Funktion zur Änderung eines Benutzerkontos.
 
-Diese Abbildung zeigt Änderung des Kontos.
+![Konto ändern](screenshots/neues_konto.png)
 
-![Änderung_Konto](screenshots/neues_konto.png)
+---
 
-### Add
+### Datensatz hinzufügen
+Diese Abbildung zeigt das Hinzufügen eines neuen Datensatzes.
 
-Diese Abbildung zeigt (Add new Name)
-![Add_GUI](screenshots/add.png)
+![Datensatz hinzufügen](screenshots/add.png)
 
-(Add new Name) Fehler
-![Add_GUI](screenshots/fehler.png)
+#### Fehleranzeige beim Hinzufügen
+Diese Abbildung zeigt eine Fehlermeldung beim Hinzufügen eines neuen Datensatzes.
 
+![Fehler beim Hinzufügen](screenshots/fehler.png)
+
+---
 
 ### Suche und Bearbeitung
+Diese Abbildung zeigt die Such- und Bearbeitungsfunktion.
 
-Diese Abbildung zeigt (Suche und Bearbeitung).
-![suchen und bearbeiten](screenshots/suchen.png)
+![Suche und Bearbeitung](screenshots/suchen.png)
