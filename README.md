@@ -17,13 +17,13 @@ Diese Abbildung zeigt Änderung des Kontos.
 ### Add
 
 Diese Abbildung zeigt (Add new Name)
-![Add_GUI](screenshots/add.png).
+![Add_GUI](screenshots/add.png)
 
 (Add new Name) Fehler
-![Add_GUI](screenshots/add_fehler.png)
+![Add_GUI](screenshots/fehler.png)
 
 
 ### Suche und Bearbeitung
 
 Diese Abbildung zeigt (Suche und Bearbeitung).
-![suchen und bearbeiten](screenshots/suchen.png).
+![suchen und bearbeiten](screenshots/suchen.png)
