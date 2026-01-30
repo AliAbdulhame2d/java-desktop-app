@@ -3,7 +3,15 @@ Java-Desktop-App mit allen CRUD-Funktionalität
 
 ## Screenshots
 
-### MySQL-Datenbankstruktur
-Diese Abbildung zeigt das Login-GUI.
-![MySQL Database](screenshots/login.png).
+### Login-GUI
 
+Diese Abbildung zeigt das Login-GUI.
+
+![Login_GUI](screenshots/login.png).
+
+
+### Add
+
+Diese Abbildung zeigt (Add new Name)
+
+![Add_GUI](screenshots/add.png).
