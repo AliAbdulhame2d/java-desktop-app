@@ -1,5 +1,5 @@
 # java-desktop-app
-Java-Desktop-App mit allen CRUD-Funktionalität
+Java Desktop-App mit allen CRUD-Funktionalität
 
 ## Screenshots
 
@@ -9,6 +9,10 @@ Diese Abbildung zeigt das Login-GUI.
 
 ![Login_GUI](screenshots/login.png).
 
+
+Diese Abbildung zeigt Änderung des Kontos.
+
+![Änderung_Konto](screenshots/neues_konto.png).
 
 ### Add
 
