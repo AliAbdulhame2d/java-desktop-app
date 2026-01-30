@@ -42,3 +42,6 @@ Diese Abbildung zeigt eine Fehlermeldung beim Hinzufügen eines neuen Datensatze
 Diese Abbildung zeigt die Such- und Bearbeitungsfunktion.
 
 ![Suche und Bearbeitung](screenshots/suchen.png)
+
+### Autor
+Ali Adulhameed /2016
