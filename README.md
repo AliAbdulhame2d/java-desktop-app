@@ -21,3 +21,9 @@ Diese Abbildung zeigt (Add new Name)
 
 (Add new Name) Fehler
 ![Add_GUI](screenshots/add_fehler.png).
+
+
+### Suche und Bearbeitung
+
+Diese Abbildung zeigt (Suche und Bearbeitung).
+![suchen und bearbeiten](screenshots/suchen.png).
