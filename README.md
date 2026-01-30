@@ -43,5 +43,7 @@ Diese Abbildung zeigt die Such- und Bearbeitungsfunktion.
 
 ![Suche und Bearbeitung](screenshots/suchen.png)
 
+---
+
 ### Autor
 Ali Adulhameed /2016
